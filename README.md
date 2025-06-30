@@ -6,3 +6,6 @@ tested on a 1920x1080 laptop screen.
 opens a 560x640 window.
 requires ttkbootstrap (for anyone who decides to dig in the source file).
 Feel free to skid this one too :)
+
+virustotal result (false positives i suppose):
+![Screenshot](Снимок%20экрана%20%285%29.png)
