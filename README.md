@@ -9,3 +9,4 @@ Feel free to skid this one too :)
 
 virustotal result (false positives i suppose):
 ![Screenshot](Снимок%20экрана%20%285%29.png)
+https://www.virustotal.com/gui/file/34e1091248f6fb348b22f457d5fa5fbd1d03f961450b280fadd3a2f4929fc0f2/detection
